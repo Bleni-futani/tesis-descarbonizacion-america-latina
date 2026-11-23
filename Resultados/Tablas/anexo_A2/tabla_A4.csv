@@ -1,0 +1,31 @@
+Variable,Lineal,Logaritmica,Cuadratica
+"PIB per cápita (miles, centrado)","0.007
+(0.016)",,"0.080**
+(0.025)"
+"PIB per cápita (miles, centrado)²",,,"-0.004***
+(0.001)"
+PIB per cápita (log),,"0.822*
+(0.397)",
+Apertura comercial,"0.000
+(0.004)","0.003
+(0.003)","-0.001
+(0.003)"
+Urbanización,"-0.008
+(0.017)","-0.015
+(0.016)","-0.023
+(0.013)"
+Años de democracia,"-0.000
+(0.003)","-0.001
+(0.003)","0.000
+(0.003)"
+Desempleo,"-0.031*
+(0.012)","-0.022*
+(0.010)","-0.022*
+(0.010)"
+Índice de Gini,"-0.019
+(0.013)","-0.016
+(0.010)","-0.015
+(0.010)"
+Observaciones,263,263,263
+R² within,0.457,0.499,0.539
+RMSE residual,0.179,0.172,0.165

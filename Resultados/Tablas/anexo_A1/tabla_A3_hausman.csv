@@ -1,0 +1,5 @@
+Variable,Especificacion,Chi_cuadrado,gl,p
+CO₂ per cápita,Con efectos temporales,0.7512,27,1
+CO₂ per cápita,Auxiliar sin efectos temporales,5.1838,6,0.52046
+Energías renovables,Con efectos temporales,0.7533,27,1
+Energías renovables,Auxiliar sin efectos temporales,0.3717,6,0.99907

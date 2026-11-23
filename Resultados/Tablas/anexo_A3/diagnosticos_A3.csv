@@ -1,0 +1,13 @@
+"dependiente","especificacion","n","paises","r2_within"
+"co2_pc","M6: sin interaccion",263,15,0.499477065419
+"co2_pc","M7: urbanizacion x democracia (H4)",263,15,0.49948238766329
+"co2_pc","Alternativa: PIB x democracia",263,15,0.504826640893942
+"co2_pc","Alternativa: apertura x democracia",263,15,0.500951368217068
+"renovables","M6: sin interaccion",263,15,0.298860126675755
+"renovables","M7: urbanizacion x democracia (H4)",263,15,0.465842828690527
+"renovables","Alternativa: PIB x democracia",263,15,0.400154568405325
+"renovables","Alternativa: apertura x democracia",263,15,0.306687031263438
+"co2_pc","M6: misma submuestra gobernanza",248,15,0.445584835177613
+"co2_pc","M6 + gobernanza",248,15,0.445592583378913
+"renovables","M6: misma submuestra gobernanza",248,15,0.27307518067117
+"renovables","M6 + gobernanza",248,15,0.291242100394254

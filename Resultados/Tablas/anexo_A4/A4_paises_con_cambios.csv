@@ -1,0 +1,20 @@
+País excluido,Resultado evaluado,Cambio,Coeficiente original,Coeficiente sin país,Valor p original,Valor p sin país
+Argentina,PIB - CO2,Pierde significancia,0.822,0.722,0.0395,0.0546
+Argentina,Urbanización - Renovables,Pierde significancia,-0.467,-0.473,0.0404,0.0566
+Bolivia,PIB - CO2,Pierde significancia,0.822,0.754,0.0395,0.0624
+Brazil,Urbanización - Renovables,Pierde significancia,-0.467,-0.437,0.0404,0.0599
+Chile,PIB - CO2,Pierde significancia,0.822,0.769,0.0395,0.0688
+Colombia,PIB - CO2,Pierde significancia,0.822,0.773,0.0395,0.0614
+Costa Rica,Desempleo - CO2,Pierde significancia,-0.022,-0.018,0.0224,0.0663
+Dominican Republic,PIB - CO2,Pierde significancia,0.822,0.678,0.0395,0.1119
+Dominican Republic,Urbanización - Renovables,Pierde significancia,-0.467,-0.432,0.0404,0.1305
+Ecuador,PIB - CO2,Pierde significancia,0.822,0.758,0.0395,0.0819
+Ecuador,Urbanización - Renovables,Pierde significancia,-0.467,-0.48,0.0404,0.0639
+El Salvador,PIB - CO2,Pierde significancia,0.822,0.7,0.0395,0.0896
+El Salvador,Urbanización - Renovables,Pierde significancia,-0.467,-0.251,0.0404,0.1495
+Honduras,PIB - CO2,Pierde significancia,0.822,0.813,0.0395,0.0505
+Mexico,Desempleo - CO2,Pierde significancia,-0.022,-0.019,0.0224,0.0892
+Panama,Urbanización - Renovables,Pierde significancia,-0.467,-0.495,0.0404,0.0536
+Peru,PIB - CO2,Pierde significancia,0.822,0.775,0.0395,0.0932
+Peru,Urbanización - Renovables,Pierde significancia,-0.467,-0.441,0.0404,0.0745
+Uruguay,Desempleo - CO2,Pierde significancia,-0.022,-0.016,0.0224,0.1012
