@@ -2,7 +2,7 @@
 
 ### Un análisis comparado de factores socioeconómicos (2000–2021)
 
-Repositorio de códigos, documentación metodológica y resultados derivados de la tesis de **Magíster en Sociología** de **Nicolás Alejandro Poblete Quinteros**, Pontificia Universidad Católica de Chile (2026).
+Repositorio de códigos, documentación metodológica y resultados derivados de una tesis de **Magíster en Sociología** de la Pontificia Universidad Católica de Chile (2026).
 
 La investigación se desarrolló en el marco del proyecto **FONDECYT de Iniciación N.º 11250489**.
 
